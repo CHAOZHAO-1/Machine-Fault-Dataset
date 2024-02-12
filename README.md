@@ -12,6 +12,19 @@ Roadmap
 ==
 
 A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相关)
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 8px;
+  }
+</style>
+
 | 序号（Index） | 年(Year) 	| 数据集名称(dataset name) | 部件名称(component name) | 故障产生方式 	| 工况情况 	| 故障情况 	| 信号类型 	| 原始数据连接 	| 备用数据连接 	|
 |----------	|----	|--------------------------------	|----------	|--------------	|----------	|----------	|----------	|--------------	|--------------	|
 | [A1](#section-id1)   	| 　 	| 凯斯西储（CWRU）               	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
