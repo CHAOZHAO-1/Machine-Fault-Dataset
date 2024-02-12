@@ -46,7 +46,12 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 
 # 凯斯西储轴承数据集（CWRU）
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
 
+Fig.1 Test rig
+
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.1.png)
+Fig.2 Test rig
 
 # 帕德博恩大学轴承数据集（KAT）
 
