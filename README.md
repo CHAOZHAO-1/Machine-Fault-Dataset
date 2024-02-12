@@ -48,7 +48,6 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 
 ![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
 
-Fig.1 Test rig
 
 一个1.5KW（2马力）的电动机（图左侧）；
 
@@ -91,7 +90,8 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
         297：编号。
 
-数据集由 12kHz采样率下电机端轴承的故障数据（DE）60个、
+数据集由 
+        12kHz采样率下电机端轴承的故障数据（DE）60个、
 
         12kHz采样率下风扇端轴承的故障数据（FE）45个、
 
@@ -101,49 +101,173 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 使用该数据集的相关论文
 
+[1]
+[2]
 
 # A2-帕德博恩大学轴承数据集（KAT）
 
+## 试验台
+
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 
 # A3-江南大学轴承数据集（JNU）
 
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 # A4-美国机械故障预测技术委员会轴承数据集（MFPT）
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 
 # A5-辛辛那提大学轴承数据集（IMS）
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 # A6-都灵大学轴承数据集
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 
 # A7-自吸泵轴承数据集
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 
 
 # A8-哈工大轴承数据集
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 
 # A9-SQV变转速轴承数据集
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 
 # A10-越南大学轴承数据集
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 
 # A11-DC竞赛轴承数据集
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 
 # A12-华中科技大学轴承数据集（HUST）
+## 试验台
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+
+
+## 数据集简要概述
+
+
+## 使用该数据集的相关论文
+
+[1]
+[2]
 
 # Contact
 
