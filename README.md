@@ -108,7 +108,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 试验台
 
-![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A2.jpg)
 
 
 ## 数据集简要概述
@@ -124,7 +124,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 试验台
 
-![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+![image]([https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A3.png))
 
 
 ## 数据集简要概述
@@ -138,7 +138,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 # A4-美国机械故障预测技术委员会轴承数据集（MFPT）
 ## 试验台
 
-![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A4.png)
 
 
 ## 数据集简要概述
@@ -153,7 +153,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 # A5-辛辛那提大学轴承数据集（IMS）
 ## 试验台
 
-![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A5.png)
 
 
 ## 数据集简要概述
@@ -167,7 +167,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 # A6-都灵大学轴承数据集
 ## 试验台
 
-![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A6.png)
 
 
 ## 数据集简要概述
