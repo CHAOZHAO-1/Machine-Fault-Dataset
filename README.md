@@ -2,6 +2,12 @@
 
 We have compiled open source datasets of mechinery fault in recent years (from near to far).
 
+
+We will complete the reposotory as soon as possible.
+
+We hope this reposotory will help you with your research.
+
+
 Roadmap
 ==
 
@@ -37,3 +43,12 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | 　       	| 　 	| 　                             	| 　       	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | 寿命预测 	|    	|                                	|          	|              	|          	|          	|          	|              	|              	|
 | 　       	| 　 	| 　                             	| 　       	| 　           	| 　       	| 　       	| 　       	|              	|              	|
+
+
+# Contact
+
+If you have any problem, please feel free to contact me.
+
+Name: Chao Zhao
+
+Email address: zhaochao734@hust.edu.cn
