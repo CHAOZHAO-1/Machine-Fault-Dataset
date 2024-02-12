@@ -4,7 +4,9 @@ We have compiled open source datasets of mechinery fault in recent years (from n
 
 Roadmap
 ==
-| Index 	| Year 	| Dataset Name 	| Component 	| Generation 	| Working Condition 	| Signal Type 	| Details 	| Dataset Link 	|
+
+A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相关)
+| Index 	| Year 	| Dataset Name 	| Component 	| Generation 	| Working Condition 	| Signal Type 	| Details 	| Dataset Link 	|Dataset Link 	|
 |-------	|------	|--------------	|-----------	|------------	|-------------------	|-------------	|---------	|--------------	|
 | A1     	|      	|              	|           	|            	|                   	|             	|         	|              	|
 | A2     	|      	|              	|           	|            	|                   	|             	|         	|              	|
