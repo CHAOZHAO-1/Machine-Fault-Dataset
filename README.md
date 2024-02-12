@@ -6,7 +6,7 @@ Roadmap
 ==
 
 A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相关)
-| Index 	| Year 	| Dataset Name 	| Component 	| Generation 	| Working Condition 	| Signal Type 	| Details 	| Dataset Link 	|Dataset Link 	|
+| Index 	| Year 	| Dataset Name 	| Component 	| Generation 	| Working Condition 	| Signal Type 	| Details 	| Dataset Link 	|
 |-------	|------	|--------------	|-----------	|------------	|-------------------	|-------------	|---------	|--------------	|
 | A1     	|      	|              	|           	|            	|                   	|             	|         	|              	|
 | A2     	|      	|              	|           	|            	|                   	|             	|         	|              	|
