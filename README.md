@@ -14,7 +14,7 @@ Roadmap
 A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相关)
 | 序号（Index） | 年(Year) 	| 数据集名称(dataset name) | 部件名称(component name) | 故障产生方式 	| 工况情况 	| 故障情况 	| 信号类型 	| 原始数据连接 	| 备用数据连接 	|
 |----------	|----	|--------------------------------	|----------	|--------------	|----------	|----------	|----------	|--------------	|--------------	|
-| [A1] (#cwru)      	| 　 	| 凯斯西储（CWRU）               	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
+| A1 [链接文本](#section-id)   	| 　 	| 凯斯西储（CWRU）               	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A2       	| 　 	| 帕德博恩（KAT）                	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A3       	| 　 	| 江南大学（JNU）                	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A4       	| 　 	| 美国机械故障预测技术委员会(MFPT)  | 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
@@ -43,7 +43,7 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | D1　      | 　 	| 　                             	| 　       	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 
 
-# A1-凯斯西储轴承数据集（CWRU）
+# A1-凯斯西储轴承数据集（CWRU）### Section Title {#section-id}
 ## 试验台
 
 ![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
