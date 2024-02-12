@@ -17,15 +17,15 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | A1       	| 　 	| 凯斯西储（CWRU）               	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A2       	| 　 	| 帕德博恩（KAT）                	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A3       	| 　 	| 江南大学（JNU）                	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
-| A4       	| 　 	| MFPT                           	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
-| A5       	| 　 	| IMS                            	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
+| A4       	| 　 	| 美国机械故障预测技术委员会(MFPT)  | 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
+| A5       	| 　 	| 辛辛那提大学（IMS）              | 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A6       	| 　 	| 都灵大学                       	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A7       	| 　 	| 自吸泵                         	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A8       	| 　 	| 哈工大                         	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A9       	| 　 	| SQV变转速                      	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A10      	| 　 	| 越南大学                       	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | A11      	| 　 	| DC竞赛                         	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
-| A12      	| 　 	| HUST轴承                       	| 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
+| A12      	| 　 	| 华中科技大学（HUST）             | 轴承     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | B1       	| 　 	| 东南大学                       	| 齿轮     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | B2       	| 　 	| PHM09                          	| 齿轮     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 | B3       	| 　 	| 行星齿轮                       	| 齿轮     	| 　           	| 　       	| 　       	| 　       	|              	|              	|
@@ -44,16 +44,32 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | 寿命预测 	|    	|                                	|          	|              	|          	|          	|          	|              	|              	|
 | 　       	| 　 	| 　                             	| 　       	| 　           	| 　       	| 　       	| 　       	|              	|              	|
 
-# 凯斯西储轴承数据集（CWRU）
+# A1-凯斯西储轴承数据集（CWRU）
 
 ![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.png)
 
 Fig.1 Test rig
 
-![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A1.1.png)
-Fig.2 Test rig
+# A2-帕德博恩大学轴承数据集（KAT）
 
-# 帕德博恩大学轴承数据集（KAT）
+
+
+# A3-江南大学轴承数据集（JNU）
+
+
+
+# A4-美国机械故障预测技术委员会轴承数据集（MFPT）
+
+
+
+# A5-辛辛那提大学轴承数据集（IMS）
+
+
+# A6-都灵大学轴承数据集
+
+
+
+# A7-自吸泵轴承数据集（IMS）
 
 
 
