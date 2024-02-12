@@ -124,7 +124,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 试验台
 
-![image]([https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A2.jpg](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A3.png))
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A3.png)
 
 
 ## 数据集简要概述
