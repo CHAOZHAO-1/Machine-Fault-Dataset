@@ -267,7 +267,7 @@ It seems no related description file.
 # B1-东南大学齿轮数据集（SEU）
 ## 试验台
 <a name="section-id13"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/B1.png)
 
 
 ## 数据集简要概述
@@ -281,7 +281,7 @@ It seems no related description file.
 # B2-PHM09齿轮数据集（PHM09）
 ## 试验台
 <a name="section-id14"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/B2.jpg)
 
 
 ## 数据集简要概述
@@ -295,7 +295,7 @@ It seems no related description file.
 # B3-行星齿轮齿轮数据集（XXXX）
 ## 试验台
 <a name="section-id15"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/B3.png)
 
 
 ## 数据集简要概述
@@ -310,8 +310,9 @@ It seems no related description file.
 # B4-西安交通大学齿轮数据集（XXXX）
 ## 试验台
 <a name="section-id16"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/B4-1.jpg)
 
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/B4-2.jpg)
 
 ## 数据集简要概述
 
@@ -327,7 +328,7 @@ It seems no related description file.
 # B5-一阶减速器齿轮数据集（XXXX）
 ## 试验台
 <a name="section-id17"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/B5.jpg)
 
 
 ## 数据集简要概述
@@ -342,7 +343,7 @@ It seems no related description file.
 # B6-华中科技大学齿轮数据集（HUSTgearbox）
 ## 试验台
 <a name="section-id18"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/B6.png)
 
 
 ## 数据集简要概述
