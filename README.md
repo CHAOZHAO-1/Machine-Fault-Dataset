@@ -185,7 +185,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 # A7-自吸泵轴承数据集
 ## 试验台
 <a name="section-id7"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A7.png)
 
 
 ## 数据集简要概述
@@ -201,7 +201,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 # A8-哈工大轴承数据集
 ## 试验台
 <a name="section-id8"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A8.png)
 
 
 ## 数据集简要概述
@@ -216,7 +216,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 # A9-SQV变转速轴承数据集
 ## 试验台
 <a name="section-id9"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A9.png)
 
 
 ## 数据集简要概述
@@ -231,7 +231,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 # A10-越南大学轴承数据集
 ## 试验台
 <a name="section-id10"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A10.png)
 
 
 ## 数据集简要概述
@@ -244,24 +244,16 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 
 # A11-DC竞赛轴承数据集
-## 试验台
-<a name="section-id11"></a>
-![image]()
-
-
 ## 数据集简要概述
+<a name="section-id11"></a>
 
-
-## 使用该数据集的相关论文
-
-[1]
-[2]
+It seems no related description file.
 
 
 # A12-华中科技大学轴承数据集（HUST）
 ## 试验台
 <a name="section-id12"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/A12.png)
 
 
 ## 数据集简要概述
