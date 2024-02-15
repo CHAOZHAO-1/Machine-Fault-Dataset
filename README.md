@@ -358,7 +358,7 @@ It seems no related description file.
 # C1-工业过程数据集（XXXX）
 ## 试验台
 <a name="section-id19"></a>
-![image]()
+It seems no related description file.
 
 
 ## 数据集简要概述
@@ -373,7 +373,7 @@ It seems no related description file.
 # C2-冷却机故障数据集（XXXX）
 ## 试验台
 <a name="section-id20"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/C2.png)
 
 
 ## 数据集简要概述
@@ -388,7 +388,7 @@ It seems no related description file.
 # C3-转子故障数据集（XXXX）
 ## 试验台
 <a name="section-id21"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/C3.png)
 
 
 ## 数据集简要概述
@@ -402,7 +402,7 @@ It seems no related description file.
 # C4-发动机故障数据集（XXXX）
 ## 试验台
 <a name="section-id22"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/C4.png)
 
 
 ## 数据集简要概述
@@ -416,7 +416,7 @@ It seems no related description file.
 # C5-海上石油勘探电浅泵故障数据集（XXXX）
 ## 试验台
 <a name="section-id23"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/C5.png)
 
 
 ## 数据集简要概述
@@ -431,7 +431,7 @@ It seems no related description file.
 # C6-科大讯飞水泵状态挑战赛公开数据故障数据集（XXXX）
 ## 试验台
 <a name="section-id24"></a>
-![image]()
+It seems no related description file.
 
 
 ## 数据集简要概述
@@ -447,7 +447,7 @@ It seems no related description file.
 # C7-德国火车数据故障数据集（XXXX）
 ## 试验台
 <a name="section-id25"></a>
-![image]()
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/C7.png)
 
 
 ## 数据集简要概述
