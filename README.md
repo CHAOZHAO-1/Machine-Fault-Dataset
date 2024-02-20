@@ -16,24 +16,24 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 
 | 序号（Index） | 年(Year) | 数据集名称(Dataset Name) | 部件名称(Component Name) | 故障产生方式(Fault generation mode) | 工况情况（Working Condition） | 故障情况(Fault Type) | 信号类型(Signal Yype) | 原始数据连接（Orignal Link） | 备用数据连接(Alternate Link) |
 |:----------:|:----:|:--------------------------------:|:----------:|:--------------:|:----------:|:----------:|:----------:|:--------------:|:--------------:|
-| [A1](#section-id1) |2015| 凯斯西储（CWRU） | 轴承（bearing） |人工注入（Artificial）|4 type| Inner race-outer race-ball| 振动（Acceleration）|[[data link](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)]                    	 |[[data link]()] |
-| [A2](#section-id2) |2016| 帕德博恩（KAT） | 轴承（bearing） | 人工注入和自然失效（Artificial and RTF）　 | 4 type　 | / | 振动（Acceleration）　 |[[data link](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)]  |[[data link]()] |
-| [A3](#section-id3) |2013| 江南大学（JNU） | 轴承（bearing） |人工注入（Artificial） 　 | 3 type　 | Inner race-outer race-ball 　 |振动（Acceleration） 　 | |[[data link]()] |
+| [A1](#section-id1) |2015| 凯斯西储（CWRU） | 轴承（bearing） |人工注入（Artificial）|4 type| Inner race-outer race-ball| 振动（Acceleration）|[[data link](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)]                    	 |[[data link](https://pan.quark.cn/s/2b0ceb12ab5a)] |
+| [A2](#section-id2) |2016| 帕德博恩（KAT） | 轴承（bearing） | 人工注入和自然失效（Artificial and RTF）　 | 4 type　 | / | 振动（Acceleration）　 |[[data link](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)]  |[[data link](https://pan.quark.cn/s/98940eefefb2)] |
+| [A3](#section-id3) |2013| 江南大学（JNU） | 轴承（bearing） |人工注入（Artificial） 　 | 3 type　 | Inner race-outer race-ball 　 |振动（Acceleration） 　 | |[[data link](https://pan.quark.cn/s/b2344c54c6d7)] |
 | [A4](#section-id4) |2013| 美国机械故障预测技术委员会(MFPT) | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration）| |[[data link]()] |
 | [A5](#section-id5)|2006| 辛辛那提大学（IMS） | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration） 　 |[[data link](https://www.nasa.gov/intelligent-systems-division)]       |[[data link]()] |
 | [A6](#section-id6)|2019| 都灵大学（DIRG） | 轴承（bearing） | 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link]()] |
-| [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 | /|[[data link]()] |
+| [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 | /|[[data link](https://pan.quark.cn/s/6ccea2154a06)] |
 | [A8](#section-id8) |2023| 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 |[[data link](https://github.com/HouLeiHIT/HIT-dataset)]     |[[data link]()] |
 | [A9](#section-id9) |2021| SQV变转速 | 轴承（bearing） |人工注入（Artificial）| 　 | Inner race-outer race| 　 | |[[data link]()]  |
 | [A10](#section-id10) |2023| 越南大学 | 轴承（bearing） |人工注入（Artificial）　 | 　 | 　 | 　 | |[[data link]()] |
 | [A11](#section-id11) |2021| DC竞赛 | 轴承（bearing）| /　 | /　 | /　 | /　 |/ |[[data link]()] |
-| [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 |/ |[[data link]()] |
+| [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 |/ |[[data link](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)] |
 | [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | |[[data link]()] |
-| [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | /|[[data link]()] |
+| [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | /|[[data link](https://pan.quark.cn/s/88180e4fccde)] |
 | [B3](#section-id15)  |2023| 行星齿轮 | 齿轮(Gear) |人工注入（Artificial）　 | 　 | 　 | 　 | |[[data link]()] |
 | [B4](#section-id16)  |2021| 西安交通 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | |[[data link]()] |
-| [B5](#section-id17)  |2021| 一阶减速器 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | | [[data link]()]|
-| [B6](#section-id18)  |2024 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 |/ |[[data link]()] |
+| [B5](#section-id17)  |2021| 一阶减速器 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | | [[data link](https://pan.quark.cn/s/7e881548f5a1)]|
+| [B6](#section-id18)  |2024 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 |/ |[[data link](data link](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset))] |
 | [C1](#section-id19)  |2015| 工业过程故障 | 工业过程 | 　 | 　 | 　 | 　 | | [[data link]()]|
 | [C2](#section-id20)  |2020| 冷却机故障 | 冷却机 | 　 | 　 | 　 | 　 | |[[data link]()] |
 | [C3](#section-id21)  |2019| 转子故障 | 转子 | 　 | 　 | 　 | 　 | |[[data link]()] |
