@@ -16,24 +16,24 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 
 | 序号（Index） | 年(Year) | 数据集名称(Dataset Name) | 部件名称(Component Name) | 故障产生方式(Fault generation mode) | 工况情况（Working Condition） | 故障情况(Fault Type) | 信号类型(Signal Yype) | 原始数据连接（Orignal Link） | 备用数据连接(Alternate Link) |
 |:----------:|:----:|:--------------------------------:|:----------:|:--------------:|:----------:|:----------:|:----------:|:--------------:|:--------------:|
-| [A1](#section-id1) | 　 | 凯斯西储（CWRU） | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A2](#section-id2) | 　 | 帕德博恩（KAT） | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A3](#section-id3) | 　 | 江南大学（JNU） | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A4](#section-id4) | 　 | 美国机械故障预测技术委员会(MFPT) | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A5](#section-id5)| 　 | 辛辛那提大学（IMS） | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A6](#section-id6)| 　 | 都灵大学（DIRG） | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A7](#section-id7) | 　 | 自吸泵 | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A8](#section-id8) | 　 | 哈工大 | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A9](#section-id9) | 　 | SQV变转速 | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A10](#section-id10) | 　 | 越南大学 | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A11](#section-id11) | 　 | DC竞赛 | 轴承 | 　 | 　 | 　 | 　 | | |
-| [A12](#section-id12) | 　 | 华中科技大学轴承（HUSTbearing） | 轴承 | 　 | 　 | 　 | 　 | | |
-| [B1](#section-id13)  | 　 | 东南大学 | 齿轮 | 　 | 　 | 　 | 　 | | |
-| [B2](#section-id14)  | 　 | PHM09 | 齿轮 | 　 | 　 | 　 | 　 | | |
-| [B3](#section-id15)  | 　 | 行星齿轮 | 齿轮 | 　 | 　 | 　 | 　 | | |
-| [B4](#section-id16)  | 　 | 西安交通 | 齿轮 | 　 | 　 | 　 | 　 | | |
-| [B5](#section-id17)  | 　 | 一阶减速器 | 齿轮 | 　 | 　 | 　 | 　 | | |
-| [B6](#section-id18)  | 　 | 华中科技大学齿轮（HUSTGear） | 齿轮 | 　 | 　 | 　 | 　 | | |
+| [A1](#section-id1) |2015 | 凯斯西储（CWRU） | 轴承（bearing） |人工注入（Artificial）| 　 | 　 | 　 | | |
+| [A2](#section-id2) |2016 | 帕德博恩（KAT） | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A3](#section-id3) | 　 | 江南大学（JNU） | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A4](#section-id4) | 　 | 美国机械故障预测技术委员会(MFPT) | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A5](#section-id5)| 2006 | 辛辛那提大学（IMS） | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A6](#section-id6)| 2019　 | 都灵大学（DIRG） | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A7](#section-id7) | 　 | 自吸泵 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A8](#section-id8) | 　 | 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A9](#section-id9) | 　 | SQV变转速 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A10](#section-id10) | 　 | 越南大学 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A11](#section-id11) | 　 | DC竞赛 | 轴承（bearing）| 　 | 　 | 　 | 　 | | |
+| [A12](#section-id12) | 　 | 华中科技大学轴承（HUSTbearing） | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [B1](#section-id13)  |2019　 | 东南大学 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
+| [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
+| [B3](#section-id15)  | 　 | 行星齿轮 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
+| [B4](#section-id16)  | 　 | 西安交通 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
+| [B5](#section-id17)  | 　 | 一阶减速器 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
+| [B6](#section-id18)  | 　 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
 | [C1](#section-id19)  | 　 | 工业过程故障 | 工业过程 | 　 | 　 | 　 | 　 | | |
 | [C2](#section-id20)  | 　 | 冷却机故障 | 冷却机 | 　 | 　 | 　 | 　 | | |
 | [C3](#section-id21)  | 　 | 转子故障 | 转子 | 　 | 　 | 　 | 　 | | |
