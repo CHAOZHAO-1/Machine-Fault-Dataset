@@ -16,32 +16,32 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 
 | 序号（Index） | 年(Year) | 数据集名称(Dataset Name) | 部件名称(Component Name) | 故障产生方式(Fault generation mode) | 工况情况（Working Condition） | 故障情况(Fault Type) | 信号类型(Signal Yype) | 原始数据连接（Orignal Link） | 备用数据连接(Alternate Link) |
 |:----------:|:----:|:--------------------------------:|:----------:|:--------------:|:----------:|:----------:|:----------:|:--------------:|:--------------:|
-| [A1](#section-id1) |2015| 凯斯西储（CWRU） | 轴承（bearing） |人工注入（Artificial）|4 type| Inner race-outer race-ball| 振动（Acceleration）|[[data link](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)]                    	 | |
-| [A2](#section-id2) |2016| 帕德博恩（KAT） | 轴承（bearing） | 人工注入和自然失效（Artificial and RTF）　 | 4 type　 | / | 振动（Acceleration）　 |[[data link](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)]  | |
-| [A3](#section-id3) |2013| 江南大学（JNU） | 轴承（bearing） |人工注入（Artificial） 　 | 3 type　 | Inner race-outer race-ball 　 |振动（Acceleration） 　 | | |
-| [A4](#section-id4) |2013| 美国机械故障预测技术委员会(MFPT) | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration）| | |
-| [A5](#section-id5)|2006| 辛辛那提大学（IMS） | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration） 　 |[[data link](https://www.nasa.gov/intelligent-systems-division)]       | |
-| [A6](#section-id6)|2019| 都灵大学（DIRG） | 轴承（bearing） | 　 | 　 | 　 | 振动（Acceleration）　 | | |
-| [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 | /| |
-| [A8](#section-id8) |2023| 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 |[[data link](https://github.com/HouLeiHIT/HIT-dataset)]     | |
+| [A1](#section-id1) |2015| 凯斯西储（CWRU） | 轴承（bearing） |人工注入（Artificial）|4 type| Inner race-outer race-ball| 振动（Acceleration）|[[data link](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)]                    	 |[[data link]()] |
+| [A2](#section-id2) |2016| 帕德博恩（KAT） | 轴承（bearing） | 人工注入和自然失效（Artificial and RTF）　 | 4 type　 | / | 振动（Acceleration）　 |[[data link](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)]  |[[data link]()] |
+| [A3](#section-id3) |2013| 江南大学（JNU） | 轴承（bearing） |人工注入（Artificial） 　 | 3 type　 | Inner race-outer race-ball 　 |振动（Acceleration） 　 | |[[data link]()] |
+| [A4](#section-id4) |2013| 美国机械故障预测技术委员会(MFPT) | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration）| |[[data link]()] |
+| [A5](#section-id5)|2006| 辛辛那提大学（IMS） | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration） 　 |[[data link](https://www.nasa.gov/intelligent-systems-division)]       |[[data link]()] |
+| [A6](#section-id6)|2019| 都灵大学（DIRG） | 轴承（bearing） | 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link]()] |
+| [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 | /|[[data link]()] |
+| [A8](#section-id8) |2023| 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 |[[data link](https://github.com/HouLeiHIT/HIT-dataset)]     |[[data link]()] |
 | [A9](#section-id9) |2021| SQV变转速 | 轴承（bearing） |人工注入（Artificial）| 　 | Inner race-outer race| 　 | | |
-| [A10](#section-id10) |2023| 越南大学 | 轴承（bearing） |人工注入（Artificial）　 | 　 | 　 | 　 | | |
+| [A10](#section-id10) |2023| 越南大学 | 轴承（bearing） |人工注入（Artificial）　 | 　 | 　 | 　 | |[[data link]()] |
 | [A11](#section-id11) |2021| DC竞赛 | 轴承（bearing）| /　 | /　 | /　 | /　 |/ |[[data link]()] |
-| [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 |/ | |
-| [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | | |
-| [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | /| |
-| [B3](#section-id15)  |2023| 行星齿轮 | 齿轮(Gear) |人工注入（Artificial）　 | 　 | 　 | 　 | | |
-| [B4](#section-id16)  |2021| 西安交通 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | | |
-| [B5](#section-id17)  |2021| 一阶减速器 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | | |
-| [B6](#section-id18)  |2024 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 |/ | |
-| [C1](#section-id19)  | 　 | 工业过程故障 | 工业过程 | 　 | 　 | 　 | 　 | | |
-| [C2](#section-id20)  | 　 | 冷却机故障 | 冷却机 | 　 | 　 | 　 | 　 | | |
-| [C3](#section-id21)  | 　 | 转子故障 | 转子 | 　 | 　 | 　 | 　 | | |
-| [C4](#section-id22)  | 　 | 发动机 | 发动机 | 　 | 　 | 　 | 　 | | |
-| [C5](#section-id23)  | 　 | 海上石油勘探电浅泵 | 泵 | 　 | 　 | 　 | 　 | | |
-| [C6](#section-id24)  | 　 | 科大讯飞水泵状态挑战赛公开数据 | 水泵 | 　 | 　 | 　 | 　 | | |
-| [C7](#section-id25)  | 　 | 德国火车数据集 | 火车轮毂 | 　 | 　 | 　 | 　 | | |
-| [C8](#section-id26)  | 　 | 变压器故障数据集 | 变压器 | 　 | 　 | 　 | 　 | | |
+| [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 |/ |[[data link]()] |
+| [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | |[[data link]()] |
+| [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | /|[[data link]()] |
+| [B3](#section-id15)  |2023| 行星齿轮 | 齿轮(Gear) |人工注入（Artificial）　 | 　 | 　 | 　 | |[[data link]()] |
+| [B4](#section-id16)  |2021| 西安交通 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | |[[data link]()] |
+| [B5](#section-id17)  |2021| 一阶减速器 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | | [[data link]()]|
+| [B6](#section-id18)  |2024 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 |/ |[[data link]()] |
+| [C1](#section-id19)  | 　 | 工业过程故障 | 工业过程 | 　 | 　 | 　 | 　 | | [[data link]()]|
+| [C2](#section-id20)  | 　 | 冷却机故障 | 冷却机 | 　 | 　 | 　 | 　 | |[[data link]()] |
+| [C3](#section-id21)  | 　 | 转子故障 | 转子 | 　 | 　 | 　 | 　 | |[[data link]()] |
+| [C4](#section-id22)  | 　 | 发动机 | 发动机 | 　 | 　 | 　 | 　 | | [[data link]()]|
+| [C5](#section-id23)  | 　 | 海上石油勘探电浅泵 | 泵 | 　 | 　 | 　 | 　 | |[[data link]()] |
+| [C6](#section-id24)  | 　 | 科大讯飞水泵状态挑战赛公开数据 | 水泵 | 　 | 　 | 　 | 　 | |[[data link]()] |
+| [C7](#section-id25)  | 　 | 德国火车数据集 | 火车轮毂 | 　 | 　 | 　 | 　 | | [[data link]()]|
+| [C8](#section-id26)  | 　 | 变压器故障数据集 | 变压器 | 　 | 　 | 　 | 　 | | [[data link]()]|
 
 
 
