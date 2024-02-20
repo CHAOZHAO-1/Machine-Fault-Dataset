@@ -19,11 +19,11 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | [A1](#section-id1) |2015| 凯斯西储（CWRU） | 轴承（bearing） |人工注入（Artificial）|4 type| Inner race-outer race-ball| 振动（Acceleration）|[[data link](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)]                    	 | |
 | [A2](#section-id2) |2016| 帕德博恩（KAT） | 轴承（bearing） | 人工注入和自然失效（Artificial and RTF）　 | 4 type　 | / | 振动（Acceleration）　 |[[data link](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)]  | |
 | [A3](#section-id3) |2013| 江南大学（JNU） | 轴承（bearing） |人工注入（Artificial） 　 | 3 type　 | Inner race-outer race-ball 　 |振动（Acceleration） 　 | | |
-| [A4](#section-id4) | 　 | 美国机械故障预测技术委员会(MFPT) | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration）| | |
+| [A4](#section-id4) |2013| 美国机械故障预测技术委员会(MFPT) | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration）| | |
 | [A5](#section-id5)|2006| 辛辛那提大学（IMS） | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration） 　 |[[data link](https://www.nasa.gov/intelligent-systems-division)]       | |
 | [A6](#section-id6)|2019| 都灵大学（DIRG） | 轴承（bearing） | 　 | 　 | 　 | 振动（Acceleration）　 | | |
 | [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 | /| |
-| [A8](#section-id8) | 　 | 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A8](#section-id8) |2023| 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 |[[data link](https://github.com/HouLeiHIT/HIT-dataset)]     | |
 | [A9](#section-id9) | 　 | SQV变转速 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
 | [A10](#section-id10) | 　 | 越南大学 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
 | [A11](#section-id11) | 　 | DC竞赛 | 轴承（bearing）| 　 | 　 | 　 | 　 | | |
