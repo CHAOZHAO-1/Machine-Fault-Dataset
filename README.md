@@ -502,8 +502,6 @@ It seems no related description file.
 # C8-变压器故障数据集（XXXX）
 ## 试验台
 <a name="section-id26"></a>
-![image]()
-
 
 ## 数据集简要概述
 
