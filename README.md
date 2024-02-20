@@ -24,9 +24,9 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | [A6](#section-id6)|2019| 都灵大学（DIRG） | 轴承（bearing） | 　 | 　 | 　 | 振动（Acceleration）　 | | |
 | [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 | /| |
 | [A8](#section-id8) |2023| 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 |[[data link](https://github.com/HouLeiHIT/HIT-dataset)]     | |
-| [A9](#section-id9) | 　 | SQV变转速 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A9](#section-id9) |2021| SQV变转速 | 轴承（bearing） |人工注入（Artificial）| 　 | Inner race-outer race| 　 | | |
 | [A10](#section-id10) | 　 | 越南大学 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
-| [A11](#section-id11) | 　 | DC竞赛 | 轴承（bearing）| 　 | 　 | 　 | 　 | | |
+| [A11](#section-id11) | 　 | DC竞赛 | 轴承（bearing）| /　 | /　 | /　 | /　 |/ | |
 | [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 |/ | |
 | [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | | |
 | [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | /| |
@@ -249,6 +249,8 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 
 ## 数据集简要概述
+
+收集了上述六种故障轴承和正常状态（NC）轴承的振动信号，共七种不同的健康状态。每次实验采集时长为15秒，包含一个完整的从静止状态逐渐加速至3000rpm，后保持稳定，最后逐渐减速为0的加减速过程。
 
 
 ## 使用该数据集的相关论文
