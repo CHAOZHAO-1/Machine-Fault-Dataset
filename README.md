@@ -18,11 +18,11 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 |:----------:|:----:|:--------------------------------:|:----------:|:--------------:|:----------:|:----------:|:----------:|:--------------:|:--------------:|
 | [A1](#section-id1) |2015| 凯斯西储（CWRU） | 轴承（bearing） |人工注入（Artificial）| 　 | 　 | 振动（Acceleration）| | |
 | [A2](#section-id2) |2016| 帕德博恩（KAT） | 轴承（bearing） | 　 | 　 | 　 | 振动（Acceleration）　 | | |
-| [A3](#section-id3) | 　 | 江南大学（JNU） | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration） 　 | | |
+| [A3](#section-id3) |2013| 江南大学（JNU） | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration） 　 | | |
 | [A4](#section-id4) | 　 | 美国机械故障预测技术委员会(MFPT) | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration）| | |
 | [A5](#section-id5)|2006| 辛辛那提大学（IMS） | 轴承（bearing） | 　 | 　 | 　 |振动（Acceleration） 　 | | |
 | [A6](#section-id6)|2019| 都灵大学（DIRG） | 轴承（bearing） | 　 | 　 | 　 | 振动（Acceleration）　 | | |
-| [A7](#section-id7) | 　 | 自吸泵 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
+| [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
 | [A8](#section-id8) | 　 | 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
 | [A9](#section-id9) | 　 | SQV变转速 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
 | [A10](#section-id10) | 　 | 越南大学 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
@@ -32,7 +32,7 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
 | [B3](#section-id15)  | 　 | 行星齿轮 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
 | [B4](#section-id16)  | 　 | 西安交通 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
-| [B5](#section-id17)  | 　 | 一阶减速器 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
+| [B5](#section-id17)  |2021| 一阶减速器 | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
 | [B6](#section-id18)  |2024 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) | 　 | 　 | 　 | 　 | | |
 | [C1](#section-id19)  | 　 | 工业过程故障 | 工业过程 | 　 | 　 | 　 | 　 | | |
 | [C2](#section-id20)  | 　 | 冷却机故障 | 冷却机 | 　 | 　 | 　 | 　 | | |
