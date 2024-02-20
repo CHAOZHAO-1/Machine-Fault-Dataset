@@ -25,8 +25,8 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 | /| |
 | [A8](#section-id8) |2023| 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 |[[data link](https://github.com/HouLeiHIT/HIT-dataset)]     | |
 | [A9](#section-id9) |2021| SQV变转速 | 轴承（bearing） |人工注入（Artificial）| 　 | Inner race-outer race| 　 | | |
-| [A10](#section-id10) | 　 | 越南大学 | 轴承（bearing） | 　 | 　 | 　 | 　 | | |
-| [A11](#section-id11) | 　 | DC竞赛 | 轴承（bearing）| /　 | /　 | /　 | /　 |/ | |
+| [A10](#section-id10) |2023| 越南大学 | 轴承（bearing） | 人工注入（Artificial）　 | 　 | 　 | 　 | | |
+| [A11](#section-id11) |2021| DC竞赛 | 轴承（bearing）| /　 | /　 | /　 | /　 |/ |[[data link]()] |
 | [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 |/ | |
 | [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | | |
 | [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | /| |
@@ -278,7 +278,15 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 ## 数据集简要概述
 <a name="section-id11"></a>
 
-It seems no related description file.
+轴承有3种故障：外圈故障，内圈故障，滚珠故障，外加正常的工作状态。如表1所示，结合轴承的3种直径（直径1,直径2,直径3），轴承的工作状态有10类
+
+可供下载使用的有2个文件：
+1.train.csv，训练集数据，1到6000为按时间序列连续采样的振动信号数值，每行数据是一个样本，共792条数据，第一列id字段为样本编号，最后一列label字段为标签数据，即轴承的工作状态，用数字0到9表示。
+2.test_data.csv，测试集数据，共528条数据，除无label字段外，其他字段同训练集。
+总的来说，每行数据除去id和label后是轴承一段时间的振动信号数据，选手需要用这些振动信号去判定轴承的工作状态label。
+注意：同一列的数据不一定是同一个时间点的采样数据，即不要把每一列当作一个特征。
+
+
 
 
 # A12-华中科技大学轴承数据集（HUST）
