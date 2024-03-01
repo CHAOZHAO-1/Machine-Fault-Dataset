@@ -28,7 +28,7 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | [A10](#section-id10) |2023| 越南大学 | 轴承（bearing） |人工注入（Artificial）| 　 | 　 | 振动（Acceleration） | |[[data link]()] |
 | [A11](#section-id11) |2021| DC竞赛 | 轴承（bearing）| /　 | /　 | /　 | /　 |/ |[[data link]()] |
 | [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 |/ |[[data link](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)] |
-| [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 振动（Acceleration）　 | 　 | |[[data link]()] |
+| [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 |  | 振动（Acceleration）　　 | |[[data link]()] |
 | [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 | /|[[data link](https://pan.quark.cn/s/88180e4fccde)] |
 | [B3](#section-id15)  |2023| 行星齿轮 | 齿轮(Gear) |人工注入（Artificial）　 | 　 | 　 | 　 | |[[data link]()] |
 | [B4](#section-id16)  |2021| 西安交通 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link]()] |
