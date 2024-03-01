@@ -25,22 +25,22 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial）  | /　 | Inner race-outer race-ball | / | /|[[data link](https://pan.quark.cn/s/6ccea2154a06)] |
 | [A8](#section-id8) |2023| 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 |[[data link](https://github.com/HouLeiHIT/HIT-dataset)]     |[[data link](https://pan.quark.cn/s/429e7fa1188f)] |
 | [A9](#section-id9) |2021| SQV变转速 | 轴承（bearing） |人工注入（Artificial）| 　 | Inner race-outer race| 　 | |[[data link](https://pan.quark.cn/s/c0841e1343b0)]  |
-| [A10](#section-id10) |2023| 越南大学 | 轴承（bearing） |人工注入（Artificial）　 | 　 | 　 | 　 | |[[data link]()] |
+| [A10](#section-id10) |2023| 越南大学 | 轴承（bearing） |人工注入（Artificial）| 　 | 　 | 振动（Acceleration） | |[[data link]()] |
 | [A11](#section-id11) |2021| DC竞赛 | 轴承（bearing）| /　 | /　 | /　 | /　 |/ |[[data link]()] |
-| [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 　 |/ |[[data link](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)] |
-| [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | |[[data link]()] |
-| [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | /|[[data link](https://pan.quark.cn/s/88180e4fccde)] |
+| [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 |/ |[[data link](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)] |
+| [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 振动（Acceleration）　 | 　 | |[[data link]()] |
+| [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 | /|[[data link](https://pan.quark.cn/s/88180e4fccde)] |
 | [B3](#section-id15)  |2023| 行星齿轮 | 齿轮(Gear) |人工注入（Artificial）　 | 　 | 　 | 　 | |[[data link]()] |
-| [B4](#section-id16)  |2021| 西安交通 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | |[[data link]()] |
-| [B5](#section-id17)  |2021| 一阶减速器 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 | |[[data link](https://pan.quark.cn/s/7e881548f5a1)]|
-| [B6](#section-id18)  |2024 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 　 |/ |[[data link](https://pan.quark.cn/s/875a1be9fc94)] |
+| [B4](#section-id16)  |2021| 西安交通 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link]()] |
+| [B5](#section-id17)  |2021| 一阶减速器 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link](https://pan.quark.cn/s/7e881548f5a1)]|
+| [B6](#section-id18)  |2024 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 |/ |[[data link](https://pan.quark.cn/s/875a1be9fc94)] |
 | [C1](#section-id19)  |2015| 工业过程故障 | 工业过程 | 　 | 　 | 　 | 　 | | [[data link]()]|
 | [C2](#section-id20)  |2020| 冷却机故障 | 冷却机 | 　 | 　 | 　 | 　 | |[[data link]()] |
 | [C3](#section-id21)  |2019| 转子故障 | 转子 | 　 | 　 | 　 | 　 | |[[data link]()] |
 | [C4](#section-id22)  |2018| 发动机 | 发动机 | 　 | 　 | 　 | 　 | |[[data link]()]|
 | [C5](#section-id23)  |2024| 海上石油勘探电浅泵 | 泵 | 　 | 　 | 　 | 　 | |[[data link]()] |
 | [C6](#section-id24)  |2023| 科大讯飞水泵状态挑战赛公开数据 | 水泵 | 　 | 　 | 　 | 　 | |[[data link]()] |
-| [C7](#section-id25)  |2022| 德国火车数据集 | 火车轮毂 | 　 | 　 | 　 | 　 | |[[data link]()]|
+| [C7](#section-id25)  |2022| 德国火车数据集 | 火车轮毂 | 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link]()]|
 | [C8](#section-id26)  |2023| 变压器故障数据集 | 变压器 | 　 | 　 | 　 | 　 | |[[data link]()]|
 
 
