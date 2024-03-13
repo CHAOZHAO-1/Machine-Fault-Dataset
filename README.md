@@ -1,11 +1,10 @@
 # Machine-Fault-Diagnosis-Dataset-PHM
 
+**Updata: 2024-03-13, All data connections are now ready!!!!!**
+
 We have compiled open source datasets of machinery fault in recent years (from near to far).
 
-
 We will complete the repository as soon as possible.
-
-**Updata: All data connections are now ready!!!!!**
 
 We hope this repository will help you with your research.
 
