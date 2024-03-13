@@ -179,12 +179,15 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 数据集简要概述
 
+MFPT 数据包含 23 个在各种故障条件下从机器收集的数据集。前20个数据集是从轴承试验台收集的，其中3个在良好条件下，3个在恒定载荷下出现外圈故障，7个在各种载荷下出现外圈故障，7个在各种载荷下出现内圈故障。其余三个数据集来自真实世界的机器：油泵轴承、中速轴承和行星轴承。故障位置未知。在此示例中，您仅使用从具有已知条件的测试远程测试机组 （Rig） 收集的数据。
+
+每个数据集都包含一个加速度信号、采样率、轴速、负载重量和四个代表不同故障位置的临界频率：球通过频率外圈 （BPFO）、球通过频率内圈 （BPFI）、基本列车频率 （FTF） 和球旋转频率 （BSF）。
+
 
 ## 使用该数据集的相关论文
 
-[1]  
-[2] 
-
+[1] Zuo, Lin, et al. "A spiking neural network-based approach to bearing fault diagnosis." Journal of Manufacturing Systems 61 (2021): 714-724.   
+[2] Sun, Guodong, et al. "Fine-grained fault diagnosis method of rolling bearing combining multisynchrosqueezing transform and sparse feature coding based on dictionary learning." Shock and Vibration 2019 (2019): 1-13.    
 
 # A5-辛辛那提大学轴承数据集（IMS）
 ## 试验台
@@ -193,12 +196,19 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 
 ## 数据集简要概述
+该数据集文件统一是Ascll格式的数据。文件每10分钟记录一次数据，每个文件由20,480个点组成，采样率设置为20 kHz（但是在一篇具体介绍论文中指出了其实实际频率是20.48KHZ）。因此一个文件也就是采集了1s的数据。
 
+数据集1有4个轴承，每个轴承分别有两个通道，在试验-失效实验结束时，轴承3出现内圈缺陷，轴承4出现滚子元件缺陷。
+数据集2有4个轴承，每个轴承一个通道。在试验到失效实验结束时，轴承1发生了外圈故障。
+数据集3有4个轴承，每个轴承一个通道。在试验到失效实验结束时，轴承3发生了外圈故障。
+
+                        
+原文链接：https://blog.csdn.net/AS_the_deer1717/article/details/134127598
 
 ## 使用该数据集的相关论文
 
-[1]  
-[2]  
+[1]  Zhang, Shen, et al. "Semi-supervised bearing fault diagnosis and classification using variational autoencoder-based deep generative models." IEEE Sensors Journal 21.5 (2020): 6476-6486.  
+[2]  Zhang, Ran, et al. "Fault diagnosis from raw sensor data using deep neural networks considering temporal coherence." Sensors 17.3 (2017): 549.  
 
 # A6-都灵大学轴承数据集
 ## 试验台
@@ -208,11 +218,13 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 数据集简要概述
 
+XXXX.
+
 
 ## 使用该数据集的相关论文
 
-[1]  
-[2]  
+[1]  Wang, Yu, et al. "Curriculum learning-based domain generalization for cross-domain fault diagnosis with category shift." Mechanical Systems and Signal Processing 212 (2024): 111295.  
+[2]  Wang, Cunjun, et al. "Mix-VAEs: A novel multisensor information fusion model for intelligent fault diagnosis." Neurocomputing 492 (2022): 234-244.  
 
 
 # A7-自吸泵轴承数据集
@@ -305,11 +317,13 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 数据集简要概述
 
+This dataset comprises vibration signals from bearings in nine different health states under four distinct operating conditions. These datasets are publicly available, and anyone can use them to validate diagnosis algorithms for rolling element bearings. 
+
 
 ## 使用该数据集的相关论文
 
-[1]  
-[2]  
+[1]  Zhao, Chao, and Weiming Shen. "A federated distillation domain generalization framework for machinery fault diagnosis with data privacy." Engineering Applications of Artificial Intelligence 130 (2024): 107765.    
+[2]  Zhao, Chao, and Weiming Shen. "Federated domain generalization: A secure and robust framework for intelligent fault diagnosis." IEEE Transactions on Industrial Informatics (2023).  
 
 # B1-东南大学齿轮数据集（SEU）
 ## 试验台
