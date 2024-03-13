@@ -525,7 +525,7 @@ It seems no related description file.
 # D1-西交全寿命周期数据集（XXXX）
 ## 试验台
 <a name="section-id27"></a>
-
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/D1.png)
 ## 数据集简要概述
 
 
@@ -537,7 +537,7 @@ It seems no related description file.
 # D2-磨削退化数据集（XXXX）
 ## 试验台
 <a name="section-id28"></a>
-
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/D2.png)
 ## 数据集简要概述
 
 
@@ -549,7 +549,7 @@ It seems no related description file.
 # D3-UNSW数据集（XXXX）
 ## 试验台
 <a name="section-id29"></a>
-
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/D3.png)
 ## 数据集简要概述
 
 
@@ -561,7 +561,7 @@ It seems no related description file.
 # D4-PHM2012数据集（XXXX）
 ## 试验台
 <a name="section-id30"></a>
-
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/D4.png)
 ## 数据集简要概述
 
 
@@ -573,7 +573,7 @@ It seems no related description file.
 # D5-CMPASS引擎退化数据集（XXXX）
 ## 试验台
 <a name="section-id31"></a>
-
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/D5.png)
 ## 数据集简要概述
 
 
@@ -585,6 +585,7 @@ It seems no related description file.
 # D6-PHM2010数据集（XXXX）
 ## 试验台
 <a name="section-id32"></a>
+![image](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/IMG/D6.PNG)
 
 ## 数据集简要概述
 
