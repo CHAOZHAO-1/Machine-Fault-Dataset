@@ -5,7 +5,7 @@ We have compiled open source datasets of machinery fault in recent years (from n
 
 We will complete the repository as soon as possible.
 
-Updata: All data connections are now ready!!!!!
+**Updata: All data connections are now ready!!!!!**
 
 We hope this repository will help you with your research.
 
