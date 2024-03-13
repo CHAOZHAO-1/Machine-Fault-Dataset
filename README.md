@@ -1,11 +1,11 @@
 # Machine-Fault-Diagnosis-Dataset-PHM
 
-We have compiled open source datasets of mechinery fault in recent years (from near to far).
+We have compiled open source datasets of machinery fault in recent years (from near to far).
 
 
-We will complete the reposotory as soon as possible.
+We will complete the repository as soon as possible.
 
-We hope this reposotory will help you with your research.
+We hope this repository will help you with your research.
 
 
 Roadmap
@@ -81,7 +81,7 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 驱动端和风扇端轴承外圈的损伤点分别放置在3点钟、6点钟、12点钟三个不同位置。
 
-数据文件为Matlab格式。每个文件包含风扇和驱动端振动数据，以及电机转速。
+数据文件为MATLAB格式。每个文件包含风扇和驱动端振动数据，以及电机转速。
 
 例子：12k_Fan_End_OR007@6_3_297.mat
 
@@ -108,8 +108,8 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 使用该数据集的相关论文
 
-[1]  
-[2]  
+[1]  Smith, Wade A., and Robert B. Randall. "Rolling element bearing diagnostics using the Case Western Reserve University data: A benchmark study." Mechanical systems and signal processing 64 (2015): 100-131.
+[2]  Wen, Long, et al. "A new convolutional neural network-based data-driven fault diagnosis method." IEEE Transactions on Industrial Electronics 65.7 (2017): 5990-5998.
 
 # A2-帕德博恩大学轴承数据集（KAT）
 
@@ -141,11 +141,11 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 温度的采样频率为：1Hz
 
 
-
 ## 使用该数据集的相关论文
 
-[1]  
-[2]  
+[1] Lessmeier, Christian, et al. "Condition monitoring of bearing damage in electromechanical drive systems by using motor current signals of electric motors: A benchmark data set for data-driven classification." PHM Society European Conference. Vol. 3. No. 1. 2016.
+[2] Zhu, Zhiyu, et al. "A convolutional neural network based on a capsule network with strong generalization for bearing fault diagnosis." Neurocomputing 323 (2019): 62-75.
+
 
 
 # A3-江南大学轴承数据集（JNU）
