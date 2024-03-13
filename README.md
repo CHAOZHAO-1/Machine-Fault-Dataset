@@ -108,8 +108,8 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 使用该数据集的相关论文
 
-[1]  Smith, Wade A., and Robert B. Randall. "Rolling element bearing diagnostics using the Case Western Reserve University data: A benchmark study." Mechanical systems and signal processing 64 (2015): 100-131.
-[2]  Wen, Long, et al. "A new convolutional neural network-based data-driven fault diagnosis method." IEEE Transactions on Industrial Electronics 65.7 (2017): 5990-5998.
+[1]  Smith, Wade A., and Robert B. Randall. "Rolling element bearing diagnostics using the Case Western Reserve University data: A benchmark study." Mechanical systems and signal processing 64 (2015): 100-131.  
+[2]  Wen, Long, et al. "A new convolutional neural network-based data-driven fault diagnosis method." IEEE Transactions on Industrial Electronics 65.7 (2017): 5990-5998.  
 
 # A2-帕德博恩大学轴承数据集（KAT）
 
@@ -143,8 +143,8 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 使用该数据集的相关论文
 
-[1] Lessmeier, Christian, et al. "Condition monitoring of bearing damage in electromechanical drive systems by using motor current signals of electric motors: A benchmark data set for data-driven classification." PHM Society European Conference. Vol. 3. No. 1. 2016.
-[2] Zhu, Zhiyu, et al. "A convolutional neural network based on a capsule network with strong generalization for bearing fault diagnosis." Neurocomputing 323 (2019): 62-75.
+[1] Lessmeier, Christian, et al. "Condition monitoring of bearing damage in electromechanical drive systems by using motor current signals of electric motors: A benchmark data set for data-driven classification." PHM Society European Conference. Vol. 3. No. 1. 2016.  
+[2] Zhu, Zhiyu, et al. "A convolutional neural network based on a capsule network with strong generalization for bearing fault diagnosis." Neurocomputing 323 (2019): 62-75.  
 
 
 
@@ -168,8 +168,8 @@ B -滚动体故障；IR – 内圈故障；OR –外圈故障；
 
 ## 使用该数据集的相关论文
 
-[1]  
-[2]  
+[1]  Zhao, Chao, and Weiming Shen. "Dual adversarial network for cross-domain open set fault diagnosis." Reliability Engineering & System Safety 221 (2022): 108358.  
+[2]  Zhao, Baining, et al. "Signal-to-signal translation for fault diagnosis of bearings and gears with few fault samples." IEEE Transactions on Instrumentation and Measurement 70 (2021): 1-10.  
 
 # A4-美国机械故障预测技术委员会轴承数据集（MFPT）
 ## 试验台
