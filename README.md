@@ -13,39 +13,9 @@ Roadmap
 
 A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相关)
 
-
-| 序号（Index） | 年(Year) | 数据集名称(Dataset Name) | 部件名称(Component Name) | 故障产生方式(Fault generation mode) | 工况情况（Working Condition） | 故障情况(Fault Type) | 信号类型(Signal Yype) | 原始数据连接（Orignal Link） | 备用数据连接(Alternate Link) |
-|:----------:|:----:|:--------------------------------:|:----------:|:--------------:|:----------:|:----------:|:----------:|:--------------:|:--------------:|
-| [A1](#section-id1) |2015| 凯斯西储（CWRU） | 轴承（bearing） |人工注入（Artificial）|4 type| Inner race-outer race-ball| 振动（Acceleration）|[[data link](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)]                    	 |[[data link](https://pan.quark.cn/s/2b0ceb12ab5a)] |
-| [A2](#section-id2) |2016| 帕德博恩（KAT） | 轴承（bearing） | 人工注入和自然失效（Artificial and RTF）　 | 4 type　 | / | 振动（Acceleration）　 |[[data link](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)]  |[[data link](https://pan.quark.cn/s/98940eefefb2)] |
-| [A3](#section-id3) |2013| 江南大学（JNU） | 轴承（bearing） |人工注入（Artificial） 　 | 3 type　 | Inner race-outer race-ball 　 |振动（Acceleration） 　 |/ |[[data link](https://pan.quark.cn/s/b2344c54c6d7)] |
-| [A4](#section-id4) |2013| 美国机械故障预测技术委员会(MFPT) | 轴承（bearing） | 人工注入（Artificial）　 |/  | Inner race-outer race　 |振动（Acceleration）| |[[data link](https://pan.quark.cn/s/ee6d4d3ef162)] |
-| [A5](#section-id5)|2006| 辛辛那提大学（IMS） | 轴承（bearing） |自然失效（Artificial and RTF）| /　 |Inner race-outer race-ball 　 | 振动（Acceleration） |　 |[[data link](https://www.nasa.gov/intelligent-systems-division)]       |[[data link](https://pan.quark.cn/s/af04bc264171)] |
-| [A6](#section-id6)|2019| 都灵大学（DIRG） | 轴承（bearing） |人工注入和自然失效（Artificial and RTF）| /　 | /　 | 振动（Acceleration）　 | |[[data link](https://pan.quark.cn/s/3013bca44ab6)] |
-| [A7](#section-id7) |2016| 自吸泵 | 轴承（bearing） |人工注入（Artificial）  | /　 | Inner race-outer race-ball | / | /|[[data link](https://pan.quark.cn/s/6ccea2154a06)] |
-| [A8](#section-id8) |2023| 哈工大 | 轴承（bearing） | 　 | 　 | 　 | 　 |[[data link](https://github.com/HouLeiHIT/HIT-dataset)]     |[[data link](https://pan.quark.cn/s/429e7fa1188f)] |
-| [A9](#section-id9) |2021| SQV变转速 | 轴承（bearing） |人工注入（Artificial）| 　 | Inner race-outer race| 　 | |[[data link](https://pan.quark.cn/s/c0841e1343b0)]  |
-| [A10](#section-id10) |2023| 越南大学 | 轴承（bearing） |人工注入（Artificial）| 　 | 　 | 振动（Acceleration） | |[[data link]()] |
-| [A11](#section-id11) |2021| DC竞赛 | 轴承（bearing）| /　 | /　 | /　 | /　 |/ |[[data link]()] |
-| [A12](#section-id12) |2024| 华中科技大学轴承（HUSTbearing） | 轴承（bearing） |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 |/ |[[data link](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)] |
-| [B1](#section-id13)  |2019| 东南大学 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 |  | 振动（Acceleration）　　 | |[[data link]()] |
-| [B2](#section-id14)  |2009| PHM09 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 | /|[[data link](https://pan.quark.cn/s/88180e4fccde)] |
-| [B3](#section-id15)  |2023| 行星齿轮 | 齿轮(Gear) |人工注入（Artificial）　 | 　 | 　 | 　 | |[[data link]()] |
-| [B4](#section-id16)  |2021| 西安交通 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link]()] |
-| [B5](#section-id17)  |2021| 一阶减速器 | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link](https://pan.quark.cn/s/7e881548f5a1)]|
-| [B6](#section-id18)  |2024 | 华中科技大学齿轮（HUSTGear） | 齿轮(Gear) |人工注入（Artificial） 　 | 　 | 　 | 振动（Acceleration）　 |/ |[[data link](https://pan.quark.cn/s/875a1be9fc94)] |
-| [C1](#section-id19)  |2015| 工业过程故障 | 工业过程 | 　 | 　 | 　 | 　 | | [[data link]()]|
-| [C2](#section-id20)  |2020| 冷却机故障 | 冷却机 | 　 | 　 | 　 | 　 | |[[data link]()] |
-| [C3](#section-id21)  |2019| 转子故障 | 转子 | 　 | 　 | 　 | 　 | |[[data link]()] |
-| [C4](#section-id22)  |2018| 发动机 | 发动机 | 　 | 　 | 　 | 　 | |[[data link]()]|
-| [C5](#section-id23)  |2024| 海上石油勘探电浅泵 | 泵 | 　 | 　 | 　 | 　 | |[[data link]()] |
-| [C6](#section-id24)  |2023| 科大讯飞水泵状态挑战赛公开数据 | 水泵 | 　 | 　 | 　 | 　 | |[[data link]()] |
-| [C7](#section-id25)  |2022| 德国火车数据集 | 火车轮毂 | 　 | 　 | 　 | 振动（Acceleration）　 | |[[data link]()]|
-| [C8](#section-id26)  |2023| 变压器故障数据集 | 变压器 | 　 | 　 | 　 | 　 | |[[data link]()]|
-
 | 序号（Index） 	| 年(Year) 	|     数据集名称(Dataset Name)     	| 部件名称(Component Name) 	|      故障产生方式(Fault generation mode)     	| 工况情况（Working Condition） 	|           故障情况(Fault Type)           	|   信号类型(Signal Yype)   	| 原始数据连接（Orignal Link） 	| 备用数据连接(Alternate Link) 	|
 |:-------------:	|:--------:	|:--------------------------------:	|:------------------------:	|:--------------------------------------------:	|:-----------------------------:	|:----------------------------------------:	|:-------------------------:	|:----------------------------:	|:----------------------------:	|
-| [A1](#section-id1) |   2015   	|         凯斯西储（CWRU）         	|      轴承（bearing）     	|            人工注入（Artificial）            	|            4   type           	|       Inner   race-outer race-ball       	|    振动（Acceleration）   	|         [data   link]        	|         [data   link]        	|
+| [A1](#section-id1) |   2015   	|         凯斯西储（CWRU）         	|      轴承（bearing）     	|            人工注入（Artificial）            	|            4   type           	|       Inner   race-outer race-ball       	|    振动（Acceleration）   	|         [data   link]        	|         [[data   link]()]       	|
 |       [A2](#section-id2)      	|   2016   	|          帕德博恩（KAT）         	|      轴承（bearing）     	| 人工注入和自然失效（Artificial   and RTF）　 	|           4   type　          	|                     /                    	|   振动（Acceleration）　  	|         [data   link]        	|         [data   link]        	|
 |       [A3](#section-id3)      	|   2013   	|          江南大学（JNU）         	|      轴承（bearing）     	|          人工注入（Artificial）   　         	|           3   type　          	|      Inner   race-outer race-ball 　     	| 振动（Acceleration）   　 	|               /              	|         [data   link]        	|
 |       [A4](#section-id4)      	|   2013   	| 美国机械故障预测技术委员会(MFPT) 	|      轴承（bearing）     	|           人工注入（Artificial）　           	|               /               	|         Inner   race-outer race　        	|    振动（Acceleration）   	|          [data link]         	|         [data   link]        	|
