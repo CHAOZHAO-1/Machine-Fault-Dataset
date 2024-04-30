@@ -240,7 +240,8 @@ MFPT 数据包含 23 个在各种故障条件下从机器收集的数据集。�
 | 1400             | 100                 | 200                 | 300                 | 400                 | -                   |
 | 1800             | 100                 | 200                 | 300                 | -                   | -                   |
 
-Each row corresponds to a different nominal load (N), and each column after the first represents a different nominal speed (Hz). In this table, "-" indicates where data is not available or applicable.
+六个通道的时间历史数据以采样频率fs = 51,200 Hz进行收集，持续时间为T = 10秒。数据记录在文件中，其名称采用以下格式：CnA_fff_vvv_m.ma。
+
 
 ## 使用该数据集的相关论文
 
@@ -256,12 +257,15 @@ Each row corresponds to a different nominal load (N), and each column after the 
 
 ## 数据集简要概述
 
+自吸离心泵的数据是在一个自吸离心泵数据采集系统上收集的。
+加速度传感器安装在电机外壳上方，并且传感器固定在一个特定的基座上。
 
-## 使用该数据集的相关论文
-
-[1]  
-[2]  
-
+| 测试对象     | 故障测试                     | 正常测试                      |
+|------------|----------------------------|-------------------------------|
+| 滚动轴承    | 轴承内圈磨损测试                  | 轴承正常运行测试                    |
+|            | 轴承外圈磨损测试                  |                               |
+|            | 轴承滚子磨损测试                  |                               |
+| 叶轮        | 叶轮磨损测试                    |                               |
 
 
 # A8-哈工大轴承数据集
