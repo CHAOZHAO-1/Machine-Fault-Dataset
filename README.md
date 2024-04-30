@@ -219,8 +219,28 @@ MFPT 数据包含 23 个在各种故障条件下从机器收集的数据集。�
 
 ## 数据集简要概述
 
-XXXX.
 
+| Name | Defect                          | Dimension (mm) |
+|------|---------------------------------|----------------|
+| 0A   | NO DEFECT                       | -              |
+| 1A   | Diameter of an indentation on the inner ring | 450            |
+| 2A   | Diameter of an indentation on the inner ring | 250            |
+| 3A   | Diameter of an indentation on the inner ring | 150            |
+| 4A   | Diameter of an indentation on a roller      | 450            |
+| 5A   | Diameter of an indentation on a roller      | 250            |
+| 6A   | Diameter of an indentation on a roller      | 150            |
+
+
+
+
+| Nominal Load (N) | Nominal Speed (Hz) | Nominal Speed (Hz) | Nominal Speed (Hz) | Nominal Speed (Hz) |
+|------------------|---------------------|---------------------|---------------------|---------------------|
+| 0                | 100                 | 200                 | 300                 | 400                 | 500                 |
+| 1000             | 100                 | 200                 | 300                 | 400                 | 500                 |
+| 1400             | 100                 | 200                 | 300                 | 400                 | -                   |
+| 1800             | 100                 | 200                 | 300                 | -                   | -                   |
+
+Each row corresponds to a different nominal load (N), and each column after the first represents a different nominal speed (Hz). In this table, "-" indicates where data is not available or applicable.
 
 ## 使用该数据集的相关论文
 
