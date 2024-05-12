@@ -48,7 +48,6 @@ A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相�
 | /                                                                                                                   	| [[data link](https://pan.quark.cn/s/89925bcef3f9)] 	| [D5](#section-id31)  	| 2020     	| CMPASS引擎退化                   	| 轴承（bearing）          	| 自然失效（Artificial and RTF）             	| /                             	| /                                      	| 振动（Acceleration）　   	|
 | /                                                                                                                   	| [[data link](https://pan.quark.cn/s/d38935c0e01a)] 	| [D6](#section-id32)  	| 2010     	| PHM2010                          	| 轴承（bearing）          	| 自然失效（Artificial and RTF）             	| /                             	| /                                      	| 振动（Acceleration）　   	|
 
-
 # A1-凯斯西储轴承数据集（CWRU）
 <a name="section-id1"></a>
 ## 试验台
@@ -268,11 +267,16 @@ MFPT 数据包含 23 个在各种故障条件下从机器收集的数据集。
 
 ## 数据集简要概述
 
+故障类型：正常，内圈，外圈，滚珠
 
-## 使用该数据集的相关论文
+单一工况
 
-[1]  
-[2]  
+
+
+
+
+
+
 
 # A8-哈工大轴承数据集 (HIT)
 ## 试验台
@@ -282,12 +286,9 @@ MFPT 数据包含 23 个在各种故障条件下从机器收集的数据集。
 
 ## 数据集简要概述
 
+故障类型：正常，内圈，外圈
 
-## 使用该数据集的相关论文
-
-[1]  
-[2]  
-
+工况超20种
 
 # A9-SQV变转速轴承数据集
 ## 试验台
@@ -297,7 +298,20 @@ MFPT 数据包含 23 个在各种故障条件下从机器收集的数据集。
 
 ## 数据集简要概述
 
-收集了上述六种故障轴承和正常状态（NC）轴承的振动信号，共七种不同的健康状态。每次实验采集时长为15秒，包含一个完整的从静止状态逐渐加速至3000rpm，后保持稳定，最后逐渐减速为0的加减速过程。
+收集了上述六种故障轴承和正常状态（NC）轴承的振动信号，共七种不同的健康状态：正常, 内圈故障（轻度、中度和重度）, 外圈故障（轻度、中度和重度）。每次实验采集时长为15秒，包含一个完整的从静止状态逐渐加速至3000rpm，后保持稳定，最后逐渐减速为0的加减速过程。
+轴承型号：NSK6203
+
+采频：fs=25600Hz
+通道2： 振动信号
+通道3： 转速脉冲信号
+
+
+
+Bearing: NSK6203
+Sampling frequency: 25600Hz
+
+Channel 2: Vibration signal 
+Channel 3: Rotational speed pulse signal
 
 
 ## 使用该数据集的相关论文
@@ -314,12 +328,9 @@ MFPT 数据包含 23 个在各种故障条件下从机器收集的数据集。
 
 ## 数据集简要概述
 
+该数据集包含了5种类型的轴承（6204、6205、6206、6207和6208）在3种工作条件（0瓦、200瓦和400瓦）下的6种缺陷类型（内圈、外圈、球及其2种复合故障）的99个原始振动信号。
 
-## 使用该数据集的相关论文
-
-[1]  
-[2]  
-
+每个振动信号以每秒51200个样本的速率进行采样，持续10秒。
 
 # A11-DC竞赛轴承数据集
 ## 数据集简要概述
@@ -355,6 +366,7 @@ This dataset comprises vibration signals from bearings in nine different health 
 
 [1]  Zhao, Chao, and Weiming Shen. "A federated distillation domain generalization framework for machinery fault diagnosis with data privacy." Engineering Applications of Artificial Intelligence 130 (2024): 107765.    
 [2]  Zhao, Chao, and Weiming Shen. "Federated domain generalization: A secure and robust framework for intelligent fault diagnosis." IEEE Transactions on Industrial Informatics (2023).  
+
 
 # B1-东南大学齿轮数据集（SEU）
 ## 试验台
@@ -639,6 +651,15 @@ It seems no related description file.
 
 [1]  
 [2]
+
+# Contact
+
+If you have any problem, please feel free to contact me.
+
+Name: Chao Zhao
+
+Email address: zhaochao734@hust.edu.cn
+
 
 # Contact
 
