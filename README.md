@@ -720,19 +720,3 @@ Name: Chao Zhao
 Email address: zhaochao734@hust.edu.cn
 
 
-# Contact
-
-If you have any problem, please feel free to contact me.
-
-Name: Chao Zhao
-
-Email address: zhaochao734@hust.edu.cn
-
-
-# Contact
-
-If you have any problem, please feel free to contact me.
-
-Name: Chao Zhao
-
-Email address: zhaochao734@hust.edu.cn
