@@ -1,6 +1,6 @@
 # Machine-Fault-Diagnosis-Dataset-PHM
 
-**Updata: 2024-05-10, All data connections are now ready!!!!!**
+**Updata: 2025-06-24**
 
 We have compiled open source datasets of machinery fault in recent years (from near to far).
 
@@ -8,45 +8,104 @@ We will complete the repository as soon as possible.
 
 We hope this repository will help you with your research.
 
+---
 
-Roadmap
-==
+# 机械故障诊断与预测数据集索引
 
-A-Bearing(轴承)；B-Gear(齿轮)；C-Others (其他)；D-RUL(寿命预测相关)
-|                                            原始数据连接（Orignal   Link）                                           	| 备用数据连接(Alternate Link)                       	| 序号（Index）        	| 年(Year) 	| 数据集名称(Dataset Name)         	| 部件名称(Component Name) 	| 故障产生方式(Fault generation mode)        	| 工况情况（Working Condition） 	| 故障情况(Fault Type)                   	| 信号类型(Signal Yype)    	|
-|:-------------------------------------------------------------------------------------------------------------------:	|----------------------------------------------------	|----------------------	|----------	|----------------------------------	|--------------------------	|--------------------------------------------	|-------------------------------	|----------------------------------------	|--------------------------	|
-| [[data   link](https://engineering.case.edu/bearingdatacenter/download-data-file)]                                  	| [[data link](https://pan.quark.cn/s/9982eb5f3364)] 	| [A1](#section-id1)   	| 2015     	| 凯斯西储（CWRU）                 	| 轴承（bearing）          	| 人工注入（Artificial）                     	| 4 type (0,1,2,3 hp)           	| Inner race-outer race-ball             	| 振动（Acceleration）     	|
-| [[data   link](https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download)] 	| [[data link](https://pan.quark.cn/s/2e5b67e8fec4)] 	| [A2](#section-id2)   	| 2016     	| 帕德博恩（KAT）                  	| 轴承（bearing）          	| 人工注入和自然失效（Artificial and RTF）　 	| 4 type　                      	| /                                      	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/b820f4ccaa75)] 	| [A3](#section-id3)   	| 2013     	| 江南大学（JNU）                  	| 轴承（bearing）          	| 人工注入（Artificial） 　                  	| 3 type（600,800,1000）        	| Inner race-outer race-ball 　          	| 振动（Acceleration） 　  	|
-| [[data   link](https://www.mfpt.org/fault-data-sets/)]                                                              	| [[data link](https://pan.quark.cn/s/a8ef4a6f806e)] 	| [A4](#section-id4)   	| 2013     	| 美国机械故障预测技术委员会(MFPT) 	| 轴承（bearing）          	| 人工注入（Artificial）　                   	| /                             	| Inner race-outer race　                	| 振动（Acceleration）     	|
-| [[data   link](https://www.nasa.gov/intelligent-systems-division/#bearing)]                                         	| [[data link](https://pan.quark.cn/s/c459b893a748)] 	| [A5](#section-id5)   	| 2006     	| 辛辛那提大学（IMS）              	| 轴承（bearing）          	| 自然失效（Artificial and RTF）             	| /　                           	| Inner race-outer race-ball 　          	| 振动（Acceleration）     	|
-| [[data   link](ftp://ftp.polito.it/people/DIRG_BearingData/)]                                                       	| [[data link](https://pan.quark.cn/s/107b919581ea)] 	| [A6](#section-id6)   	| 2019     	| 都灵大学（DIRG）                 	| 轴承（bearing）          	| 人工注入和自然失效（Artificial and RTF）   	| /　                           	| Inner race-outer race　                	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/b9cb8f0d3417)] 	| [A7](#section-id7)   	| 2016     	| 自吸泵（SCP）                    	| 轴承（bearing）          	| 人工注入（Artificial）                     	| /　                           	| Inner race-outer race-ball             	| 振动（Acceleration）　   	|
-| [[data   link](https://github.com/HouLeiHIT/HIT-dataset)]                                                           	| [[data link](https://pan.quark.cn/s/57637395e45e)] 	| [A8](#section-id8)   	| 2023     	| 哈工大(HIT)                      	| 轴承（bearing）          	| 人工注入（Artificial）                     	| /　                           	| Inner race-outer race                  	| 振动（Acceleration）　   	|
-| [[data link]()]                                                                                                     	| [[data link](https://pan.quark.cn/s/a6d1f772fb07)] 	| [A9](#section-id9)   	| 2021     	| SQV变转速                        	| 轴承（bearing）          	| 人工注入（Artificial）                     	| /　                           	| Inner race-outer race                  	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/5bb98ecb8e79)] 	| [A10](#section-id10) 	| 2023     	| 越南大学                         	| 轴承（bearing）          	| 人工注入（Artificial）                     	| 3 type　                      	| Inner race-outer race-ball             	| 振动（Acceleration）     	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/e2ab44db62aa)] 	| [A11](#section-id11) 	| 2021     	| DC竞赛                           	| 轴承（bearing）          	| /　                                        	| /　                           	| /　                                    	| /　                      	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/1726006de15a)] 	| [A12](#section-id12) 	| 2024     	| 华中科技大学轴承（HUSTbearing）  	| 轴承（bearing）          	| 人工注入（Artificial） 　                  	| 4 type　                      	| Inner race-outer race-ball-Combination 	| 振动（Acceleration）　   	|
-| [[data link]()]                                                                                                     	| [[data link](https://pan.quark.cn/s/7690e4d4e0aa)] 	| [B1](#section-id13)  	| 2019     	| 东南大学                         	| 齿轮(Gear)               	| 人工注入（Artificial） 　                  	| 2 type　                      	| 5 type                                 	| 振动（Acceleration）　　 	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/edd382287d69)] 	| [B2](#section-id14)  	| 2009     	| PHM09                            	| 齿轮(Gear)               	| 人工注入（Artificial） 　                  	| 10 type　                     	| /　                                    	| 振动（Acceleration）　   	|
-| [[data link]()]                                                                                                     	| [[data link](https://pan.quark.cn/s/32aea4fbd229)] 	| [B3](#section-id15)  	| 2023     	| 行星齿轮                         	| 齿轮(Gear)               	| 人工注入（Artificial）　                   	| /　                           	| /　                                    	| 振动（Acceleration）　   	|
-| [[data link]()]                                                                                                     	| [[data link](https://pan.quark.cn/s/051b5b6cda3f)] 	| [B4](#section-id16)  	| 2021     	| 西安交通                         	| 齿轮(Gear)               	| 人工注入（Artificial） 　                  	| /　                           	| /　                                    	| 振动（Acceleration）　   	|
-| [[data link]()]                                                                                                     	| [[data link](https://pan.quark.cn/s/9c4fb31447f9)] 	| [B5](#section-id17)  	| 2021     	| 一阶减速器（LW）                 	| 齿轮(Gear)               	| 人工注入（Artificial） 　                  	| 6 type　                      	| 4 type                                 	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/4d3bf3297f74)] 	| [B6](#section-id18)  	| 2024     	| 华中科技大学齿轮（HUSTGear）     	| 齿轮(Gear)               	| 人工注入（Artificial） 　                  	| 4 type　                      	| 3 type                                 	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/2fc5f930648b)] 	| [C1](#section-id19)  	| 2015     	| 工业过程故障                     	| 工业过程(Process)        	| /　                                        	| /　                           	| 5 type                                 	| 24 维变量（Variables）   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/6d1ec2b7f004)] 	| [C2](#section-id20)  	| 2020     	| 冷却机故障                       	| 冷却机(Chiller)          	| /                                          	| /                             	| 7 type                                 	| /                        	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/ee74b087b0f0)] 	| [C3](#section-id21)  	| 2019     	| 转子故障                         	| 转子(Rotor)              	| /                                          	| /                             	| /                                      	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/e6e0f4b556dd)] 	| [C4](#section-id22)  	| 2018     	| 发动机                           	| 发动机(Engine)           	| /                                          	| /                             	| /                                      	| /                        	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/b2850c92701a)] 	| [C5](#section-id23)  	| 2024     	| 海上石油勘探电浅泵               	| 泵(Pump)                 	| /                                          	| /                             	| /                                      	| /                        	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/e412cedabb2b)] 	| [C6](#section-id24)  	| 2023     	| 科大讯飞水泵状态挑战赛           	| 水泵(Pump)               	| /                                          	| /                             	| /                                      	| /                        	|
-| [[data link]()]                                                                                                     	| [[data link](https://pan.quark.cn/s/df64f70c77c0)] 	| [C7](#section-id25)  	| 2022     	| 德国火车                         	| 火车轮毂(Train)          	| 人工注入和自然失效（Artificial and RTF）   	| /                             	| /                                      	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/0e4fd9fa46ee)] 	| [C8](#section-id26)  	| 2023     	| 变压器故障                       	| 变压器(Transformer)      	| /                                          	| /                             	| /                                      	| /                        	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/abcfaa2c66b3)] 	| [D1](#section-id27)  	| 2018     	| 西交全寿命周期                   	| 轴承（bearing）          	| 自然失效（Artificial and RTF）             	| /                             	| /                                      	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/fcfbfba0743c)] 	| [D2](#section-id28)  	| 1996     	| 磨削退化(Tool mill)              	| 刀具（Tool）             	| 自然失效（Artificial and RTF）             	| /                             	| /                                      	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/cf663fda7dca)] 	| [D3](#section-id29)  	| 2021     	| UNSW                             	| 轴承（bearing）          	| 自然失效（Artificial and RTF）             	| /                             	| /                                      	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/03d90fb23238)] 	| [D4](#section-id30)  	| 2012     	| PHM2012                          	| 轴承（bearing）          	| 自然失效（Artificial and RTF）             	| /                             	| /                                      	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/89925bcef3f9)] 	| [D5](#section-id31)  	| 2020     	| CMPASS引擎退化                   	| 轴承（bearing）          	| 自然失效（Artificial and RTF）             	| /                             	| /                                      	| 振动（Acceleration）　   	|
-| /                                                                                                                   	| [[data link](https://pan.quark.cn/s/d38935c0e01a)] 	| [D6](#section-id32)  	| 2010     	| PHM2010                          	| 轴承（bearing）          	| 自然失效（Artificial and RTF）             	| /                             	| /                                      	| 振动（Acceleration）　   	|
+本项目整理了常用于机械故障诊断与剩余寿命预测的公开数据集，涵盖轴承、齿轮、电机、传动系统、复杂装备、电池及全生命周期等多个类别。
+
+## 目录
+
+### 1. 轴承数据集
+
+* 1.1 [凯斯西储（CWRU）](#轴承数据集)
+* 1.2 [帕德博恩（KAT）](#轴承数据集)
+* 1.3 [江南大学（JNU）](#轴承数据集)
+* 1.4 [美国机械故障预测技术委员会 (MFPT)](#轴承数据集)
+* 1.5 [辛辛那提大学（IMS）](#轴承数据集)
+* 1.6 [都灵大学（DIRG）](#轴承数据集)
+* 1.7 [自吸泵（SCP）](#轴承数据集)
+* 1.8 [哈工大（HIT）](#轴承数据集)
+* 1.9 [SQV变转速](#轴承数据集)
+* 1.10 [越南大学](#轴承数据集)
+* 1.11 [DC竞赛](#轴承数据集)
+* 1.12 [华中科技大学轴承（HUSTbearing）](#轴承数据集)
+* 1.13 [江苏科技大学轴承](#轴承数据集)
+* 1.14 [东华大学细纱机罗拉轴承](#轴承数据集)
+* 1.15 [山东科技大学轴承数据集](#轴承数据集)
+* 1.16 [韩国高等研究院轴承多模态数据集](#轴承数据集)
+* 1.17 [科大讯飞旋转机械诊断挑战赛](#轴承数据集)
+* 1.18 [变转速轴承数据集](#轴承数据集)
+
+### 2. 齿轮数据集
+
+* 2.1 [东南大学](#齿轮数据集)
+* 2.2 [PHM09](#齿轮数据集)
+* 2.3 [行星齿轮](#齿轮数据集)
+* 2.4 [西安交通](#齿轮数据集)
+* 2.5 [一阶减速器（LW）](#齿轮数据集)
+* 2.6 [华中科技大学齿轮（HUSTGear）](#齿轮数据集)
+* 2.7 [MCC5-THU齿轮箱](#齿轮数据集)
+* 2.8 [风力涡轮齿轮箱](#齿轮数据集)
+* 2.9 [SpectraQuest齿轮箱](#齿轮数据集)
+* 2.10 [UM-GearEccDataset](#齿轮数据集)
+* 2.11 [山东科技大学齿轮数据集](#齿轮数据集)
+* 2.12 [风电机组齿轮箱](#齿轮数据集)
+
+### 3. 机械传动系统数据集
+
+* 3.1 [KAIST](#机械传动系统数据集)
+* 3.2 [BJTU-RAO 转向架数据集](#机械传动系统数据集)
+* 3.3 [HUSTTransmission](#机械传动系统数据集)
+* 3.4 [西南交通大学转向架数据集](#机械传动系统数据集)
+
+### 4. 电机数据集
+
+* 4.1 [HUSTmotor](#电机数据集)
+* 4.2 [韩国高等研究院电机多模态](#电机数据集)
+* 4.3 [风力发电机](#电机数据集)
+* 4.4 [四模态电机数据集](#电机数据集)
+
+### 5. 复杂装备数据集
+
+* 5.1 [工业过程故障](#复杂装备数据集)
+* 5.2 [冷却机故障](#复杂装备数据集)
+* 5.3 [转子故障](#复杂装备数据集)
+* 5.4 [发动机](#复杂装备数据集)
+* 5.5 [海上石油勘探电浅泵](#复杂装备数据集)
+* 5.6 [科大讯飞水泵状态挑战赛](#复杂装备数据集)
+* 5.7 [德国火车](#复杂装备数据集)
+* 5.8 [变压器故障](#复杂装备数据集)
+* 5.9 [北航无人机](#复杂装备数据集)
+* 5.10 [UAV数据集](#复杂装备数据集)
+* 5.11 [PHM2022](#复杂装备数据集)
+* 5.12 [Pump](#复杂装备数据集)
+* 5.13 [机器人群](#复杂装备数据集)
+* 5.14 [机器人装配数据集](#复杂装备数据集)
+
+### 6. 电池数据集
+
+* 6.1 [HUST](#电池数据集)
+* 6.2 [LFP](#电池数据集)
+* 6.3 [NCA](#电池数据集)
+* 6.4 [NCM](#电池数据集)
+* 6.5 [TJU](#电池数据集)
+* 6.6 [XJTU](#电池数据集)
+
+### 7. 全生命周期数据集
+
+* 7.1 [西交全寿命周期](#全生命周期数据集)
+* 7.2 [磨削退化（Tool mill）](#全生命周期数据集)
+* 7.3 [UNSW](#全生命周期数据集)
+* 7.4 [PHM2012](#全生命周期数据集)
+* 7.5 [CMPASS引擎退化](#全生命周期数据集)
+* 7.6 [PHM2010](#全生命周期数据集)
+
+---
+
+
+
+
 
 # A1-凯斯西储轴承数据集（CWRU）
 <a name="section-id1"></a>
